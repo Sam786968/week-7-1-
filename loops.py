@@ -55,9 +55,9 @@ def loop():
   for number in list_numbers:
     if number % 2 == 0:
       sum_even = sum_even + number
-      print(f"Evens are {sum_even}.")
+      print(f"The sum of evens is {sum_even}.")
     else:
       sum_odd = sum_odd + number 
-      print(f"Odds are {sum_odd}.")
+      print(f"The sum of odds is {sum_odd}.")
   
 print("---------")
