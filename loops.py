@@ -1,4 +1,10 @@
-def num4():
+def loop():
+  # a = 1675657675765
+  # b = 26756756754467
+  # while a > 10:
+  #   print(a)
+  #   print(b)
+
   ###################################loops intro######################################
   # queue videos
   #what is iteration?
@@ -10,18 +16,23 @@ def num4():
   
   # For example: "Hello Norville"
   
-  students = ["Norville", "Fred", "Velma", "Daphne"]
+  # students = ["Norville", "Fred", "Velma", "Daphne"]
+  
+  # for student in students:
+  #   print(f"Hello {student}.")
   
   
+  # # For Loops Practice #2
+  # # Given the following list of numbers, calculate the sum of all the numbers using For loops and store the result of the sum in a variable called sum_numbers:
   
+  # list_numbers = [1,5,8,7,6,8,2,5,2,6,4,8,5,9,8,3,5,4,2,5,6,4]
+  # sum_numbers = 0
   
-  # For Loops Practice #2
-  # Given the following list of numbers, calculate the sum of all the numbers using For loops and store the result of the sum in a variable called sum_numbers:
-  
-  list_numbers = [1,5,8,7,6,8,2,5,2,6,4,8,5,9,8,3,5,4,2,5,6,4]
-  # sum_numbers = 
-  
-  
+  # for number in list_numbers:
+  #   sum_numbers = sum_numbers + number
+  #   # or  
+  #   # sum_numbers += number
+  #   print(sum_numbers)
   
   
   
@@ -38,7 +49,15 @@ def num4():
   
   list_numbers = [1,5,8,7,6,8,2,5,2,6,4,8,5,9,8,3,5,4,2,5,6,4]
   
-  # sum_even = 
+  sum_even = 0
+  sum_odd = 0
+
+  for number in list_numbers:
+    if number % 2 == 0:
+      sum_even = sum_even + number
+      print(f"Evens are {sum_even}.")
+    else:
+      sum_odd = sum_odd + number 
+      print(f"Odds are {sum_odd}.")
   
-  # sum_odd = 
-  print("done")
+print("---------")

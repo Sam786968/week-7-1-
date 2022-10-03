@@ -15,7 +15,7 @@ from dictionaries_loops import dictionaries_loops
 from enumerators import num1
 from list_comprehension import num2
 from logical_operators import num3
-from loops import num4
+from loops import loop
 from min_max import num5
 from random import num6
 from ranges import num7
@@ -28,7 +28,7 @@ dictionaries_loops()
 num1()
 num2()
 num3()
-num4()
+loop()
 num5()
 num6()
 num7()

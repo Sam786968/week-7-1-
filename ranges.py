@@ -25,4 +25,4 @@ def num7():
   
   # Sum all the squared values obtained. Accumulate the sum in the variable sum_squares.
   
-    print("done")
+    print("---------")
