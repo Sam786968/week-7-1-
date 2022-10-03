@@ -44,5 +44,6 @@ def num1():
   
   # string methods and indexing
   
-  #  list_names = ["Maverick", "Alice", "Madeline", "Hazel", "Jack", "Meadow", "Thomas", "Emily", "Mills"]
-  print("---------")
+  # list_names = ["Maverick", "Alice", "Madeline", "Hazel", "Jack", "Meadow", "Thomas", "Emily", "Mills"]
+  
+  print("----List Comprehension----")

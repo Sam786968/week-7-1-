@@ -1,4 +1,6 @@
+
 def comparison():
+  print("----Comparison Operators----")
   ################################comparison operators#########################
   #remember....
   # > greater
@@ -37,4 +39,4 @@ def comparison():
  #a variable called my_bool.
   
   
-    print("---------")
+print("----Decision Making----")

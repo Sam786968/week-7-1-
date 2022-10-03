@@ -51,4 +51,4 @@ def num2():
   # temperature_fahrenheit = [32, 212, 275]
   
   # Store this new list in a variable called degrees_celsius
-  print("---------")
+  print("----Logical Operators----")

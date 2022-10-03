@@ -60,4 +60,4 @@ def loop():
       sum_odd = sum_odd + number 
       print(f"The sum of odds is {sum_odd}.")
   
-print("---------")
+print("----Min and Max----")

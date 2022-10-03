@@ -45,6 +45,4 @@ def num9():
   # 3: tres / três / three
   # 4: cuatro / quatro / four
   # 5: cinco / cinco / five
-  
-  
-      print("---------")
+print(" ")
