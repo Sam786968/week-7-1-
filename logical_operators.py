@@ -40,6 +40,4 @@ def num3():
   # are not found in the sentence below, and store the result (a boolean) in a variable called my_bool:
   
   # "When something is important enough, you do it even if the odds are against you" - Elon Musk
-  
-  
-  
+    print("done")

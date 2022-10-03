@@ -14,7 +14,7 @@ from decision_making import decisions
 from dictionaries_loops import dictionaries_loops
 from enumerators import num1
 from list_comprehension import num2
-from logical_operstors import num3
+from logical_operators import num3
 from loops import num4
 from min_max import num5
 from random import num6
@@ -24,7 +24,7 @@ from zip import num9
 
 decisions()
 comparison()
-dictionaries_loops()
+dictionaries_loops() 
 num1()
 num2()
 num3()
